@@ -1,5 +1,8 @@
 .map {
     background-color: lightgreen;
     height: calc(100vh - 57px);
+}
 
+.leaflet-container {
+    height: 100%;
 }
