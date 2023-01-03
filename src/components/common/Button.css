@@ -1,5 +1,4 @@
-button .btn {
-
+button, .btn {
     border-radius: 50%;
     border: 0;
     color: white;
@@ -8,4 +7,5 @@ button .btn {
     cursor: pointer;
     text-transform: uppercase;
     font-weight: bold;
+    text-decoration: none;
 }
